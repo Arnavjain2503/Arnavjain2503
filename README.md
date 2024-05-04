@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jarnav953@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/arnav-jain-21289a249</h3>
 <p align="left">
 </p>
 
