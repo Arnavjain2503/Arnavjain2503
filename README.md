@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Jain</h1>
-<h3 align="center">A passionate Coder</h3>
+<h3 align="center">Tech Enthusiast</h3>
 
 - 💬 Ask me about **Java,C,C++,MySQL,MongoDB,HTML,CSS**
 
