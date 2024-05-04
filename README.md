@@ -5,11 +5,11 @@
 
 - 📫 How to reach me **jarnav953@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/arnav-jain-21289a249</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
-<a href="https://linkedin.com/in/abhishek-rajput-6b8912258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/arnav-jain-21289a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
