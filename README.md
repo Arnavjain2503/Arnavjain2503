@@ -23,9 +23,9 @@
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arnav-jain-21289a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/palak-rajput-069336264" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Arnav_Jain2503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi-2502" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/jarnav953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishek25022004" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arnav-jain-21289a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnav-jain-21289a249/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Arnav_Jain2503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnav-2503" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/jarnav953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arnav2503" height="30" width="40" /></a>
 </p>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
