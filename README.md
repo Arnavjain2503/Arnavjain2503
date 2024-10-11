@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working as an Intern at **Project Human City**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, DSA, Android Development, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript**
 
