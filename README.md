@@ -41,7 +41,7 @@
 <h3 align="center">Android and Web Development</h3>
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js,react,bootstrap,figma,django" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js,react,bootstrap,figma" alt="My Skills">
   </a>
 </div>
 
