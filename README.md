@@ -1,13 +1,11 @@
 <!-- Banner -->
 <!-- <p align="center"><img align="center" alt="Banner" src="./Header2.png"></p> -->
 
-<b><h1 align="center">Software Engineer<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
+<b><h1 align="center">Arnav Jain - Software Engineer<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1></b>
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /></h1></b> -->
 <p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2502&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2502" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -59,12 +57,6 @@
   </a>
 </div>
 
-<!-- Stats-->
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2502&show_icons=true&locale=en" alt="abhishek-2502" /></p> -->
-<!-- Most Used Lang-->
-<!-- <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2502&show_icons=true&locale=en&layout=compact" alt="abhishek-2502" width="300" height="200"/></p> -->
-<!-- Streak-->
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2502&" alt="abhishek-2502" height="200"/></p> -->
  
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
   
