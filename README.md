@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
   
-- 🔭 I’m currently working as an Intern at **Project Human City**
+- 🔭 I’m currently working as an Intern at **Celebal Technologies**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **Java, Python, C/C++, MySQL, MongoDB, DSA, Android Development, Bash Scripting, Git, Docker, AWS, HTML, CSS, JavaScript**
 
