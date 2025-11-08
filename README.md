@@ -58,14 +58,14 @@
 </div>
 
  
-<!-- <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats  -->
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
   
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 <p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
 
 <div align="center">
   <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=Arnavjain2503&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="My Skills">
+    <!-- <img src="https://bad-apple-github-readme.vercel.app/api?username=Arnavjain2503&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="My Skills"> -->
   </a>
 </div>
 
