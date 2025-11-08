@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="#">
-    <!-- <img src="https://bad-apple-github-readme.vercel.app/api?username=Arnavjain2503&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="My Skills"> -->
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=Arnavjain2503&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="My Skills">
   </a>
 </div>
 
