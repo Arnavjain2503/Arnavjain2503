@@ -61,7 +61,7 @@
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
   
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p>
+<!-- <p align="center"><img src="./animated_line.gif" width="100%" alt="animated line gif"/></p> -->
 
 <div align="center">
   <a href="#">
